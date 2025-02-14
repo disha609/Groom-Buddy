@@ -1,11 +1,6 @@
 # Groom Buddy
 "Elevate your grooming experience with Groom Buddy's sleek and modern website, designed to cater specifically to men. Blending style and functionality, it’s crafted using HTML, CSS, and JavaScript to deliver a seamless user experience."
 
-# Demo Screenshots
-
-![desktop](Link)
-
-
 # Features
 
 * Responsive Design: Perfectly optimized for desktops, tablets, and mobile devices.
